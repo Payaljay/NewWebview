@@ -4,7 +4,7 @@ Add this library to your project Declare the Gradle repository in your root buil
 
 allprojects { repositories { maven { url "https://jitpack.io" } } } Declare the Gradle dependency in your app module's build.gradle
 
-dependencies { implementation 'com.github.Payaljay:CustomWebview:v1.0.4' }
+dependencies {  implementation 'com.github.Payaljay:NewWebview:1.0.0'}
 
 Usage AndroidManifest.xml
 
